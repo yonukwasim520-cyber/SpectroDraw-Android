@@ -1,0 +1,71 @@
+body {
+
+    margin:0;
+
+    background:#111;
+
+    color:white;
+
+    font-family:sans-serif;
+
+    text-align:center;
+
+}
+
+
+h1 {
+
+    margin-top:20px;
+
+}
+
+
+.container {
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+}
+
+
+canvas {
+
+    background:white;
+
+    width:90vw;
+
+    height:70vh;
+
+    touch-action:none;
+
+    border:3px solid #555;
+
+}
+
+
+.buttons {
+
+    margin-top:15px;
+
+}
+
+
+button {
+
+    font-size:18px;
+
+    padding:12px 20px;
+
+    margin:5px;
+
+}
+
+
+#status {
+
+    color:#0f0;
+
+}
