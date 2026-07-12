@@ -1,4 +1,4 @@
-# SpectroDraw
+# SpectroDraw-Android
 
 SpectroDraw is an experimental audio visualization and sonification tool that converts hand-drawn images into sound and generates a real audio spectrogram preview.
 
