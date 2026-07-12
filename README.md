@@ -28,11 +28,11 @@ The project allows users to draw directly in a web browser, transform the drawin
 Clone the repository:
 
 ```bash
-git clone https://github.com/yonukwasim520-cyber/Initial-release-of-SpectroDraw.git
+git clone https://github.com/yonukwasim520-cyber/SpectroDraw-Android.git
 
 Enter the project folder:
 
-cd Initial-release-of-SpectroDraw
+cd SpectroDraw-Android
 
 Install dependencies:
 
